@@ -21,3 +21,6 @@
 
 ### Alterando entre branches
 > O comando *git checkout nome-da-branch* faz com que o HEAD aponte para a branch que foi especificada.
+> Vale lembrar que, ao realizar a troca de branch, os arquivos também irão mudar, ou seja, será mostrado os arquivos que foram commitados na branch em que se encontra.
+
+> Com o comando *git checkout -b nome-da-nova-branch* ele cria e ao mesmo tempo muda para a branch criada.
